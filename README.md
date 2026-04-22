@@ -139,21 +139,6 @@ Saya seorang **Frontend & UI Developer** yang berfokus pada pembuatan antarmuka 
 
 <br/>
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanaDewi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaDewi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanaDewi&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&hide_border=true&area=true&area_color=1a2332" />
-
-</div>
-
-<br/>
-
 ---
 
 <br/>
