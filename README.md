@@ -147,7 +147,7 @@ Saya seorang **Frontend & UI Developer** yang berfokus pada pembuatan antarmuka 
 
 <div align="center">
 
-*Terbuka untuk kolaborasi, proyek freelance, diskusi UI/UX, atau sekadar say hi!* 👋
+*Terbuka untuk kolaborasi, proyek freelance, diskusi Web Interfaces, atau sekadar say hi!* 👋
 
 <br/>
 
